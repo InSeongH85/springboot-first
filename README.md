@@ -1,2 +1,3 @@
-# springboot-first
-springboot
+# INEK SpringBootApplication
+
+## JPA & REST Api
