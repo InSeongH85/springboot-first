@@ -2,7 +2,7 @@
 name: Function Modify / Reform
 about: Suggest an idea for this project
 title: "[REQUEST] "
-labels: enhancement
+labels: ''
 assignees: ''
 
 ---
