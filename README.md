@@ -1,5 +1,7 @@
-# SpringBootApplication
+# Udemy SpringBootApplication 
 
-## Udemy SpringBoot Study 
+일시 : 2019.06 
 
-## JPA & REST Api
+## REST Api 이용하여 CRUD 
+
+## JPA 를 이용하여 CRUD
